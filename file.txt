@@ -1,2 +1,3 @@
 this is the new file of my git hub
 hello
+how are you
