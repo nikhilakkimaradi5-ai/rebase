@@ -1,2 +1,1 @@
-hi this is mt first file
-hello
+this is the new file of my git hub
